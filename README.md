@@ -1,2 +1,14 @@
 # seccion-git
 git cualquier cosa 
+
+oscar sote cristian 
+
+ en la carpeta que quieran guardar el repo
+git clone https://github.com/oscarmauriciogiraldo/seccion-git.git
+
+cd feria-virtual
+
+
+ git add .
+ git commit -m "version1"
+ git push 
