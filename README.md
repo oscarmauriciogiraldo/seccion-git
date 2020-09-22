@@ -1,2 +1,2 @@
 # seccion-git
-git
+git cualquier cosa 
