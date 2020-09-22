@@ -12,3 +12,6 @@ cd feria-virtual
  git add .
  git commit -m "version1"
  git push 
+ 
+ 
+ acuerdense de hacer git pull para actualizar el proyecto
