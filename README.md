@@ -15,3 +15,9 @@ cd feria-virtual
  
  
  acuerdense de hacer git pull para actualizar el proyecto
+
+ # ramas 
+
+ git branch -> en que rama estoy 
+
+ git checkout nombrerama -> moverse entre ramas 
